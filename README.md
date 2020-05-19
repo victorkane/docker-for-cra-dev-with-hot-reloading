@@ -62,7 +62,7 @@
   git commit -m "initial commit"
   ```
 - We cleaned up and made our initial commit
-  (since CRA created its own README and shuned ours over to a different name)
+  (since CRA created its own README and shunned ours over to a different name)
 - We run the default app and make sure it's running ok
   by pointing our browser at port 3000
   `http://localhost:3000` if using Docker Desktop
