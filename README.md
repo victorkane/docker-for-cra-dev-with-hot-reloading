@@ -18,8 +18,8 @@
 
 - Make sure you have docker installed
   Just follow the first article on how to install Docker (with Docker Machine instead of Docker Desktop).
-  If you're on a Mac but you prefer Docker Desktop, that will work fine
-  Also, no matter what system you're on, if you have docker running, we're good to go
+  If you're on a Mac but you prefer Docker Desktop, that will work fine.
+  Also, no matter what system you're on, if you have docker running, we're good to go.
 - So in my case, I have docker-machine running, but not as a service, just ... there.
   So I gear up VS Code in a directory, and do the following
   - See if docker-machine is running
@@ -64,19 +64,6 @@
 - We cleaned up and made our initial commit
   (since CRA created its own README and shunned ours over to a different name)
 - We run the default app and make sure it's running ok
-  by pointing our browser at port 3000
-  `http://localhost:3000` if using Docker Desktop
-  `http://<docker-machine ip>:3000` if using Docker Machine
-- ```bash
-  docker-machine ip
-
-  npm start
-  You can now view how-to-docker-with-css-styles-in-cra in the browser
-
-  Local:            http://localhost:3000
-  On Your Network:  http://n.n.n.n:3000
-  ```
-
 - We successfully point our browser at
   http://localhost:3000/
 
