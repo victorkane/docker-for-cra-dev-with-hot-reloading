@@ -84,6 +84,7 @@
   ```
 - Point your browser at http://localdev:3001/
   where `localdev` is the ip returned by `docker-machine ip`
+  (or else use `localhost` if you're using Docker Desktop or what have you)
 
 ## Test hot reloading
 
