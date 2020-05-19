@@ -1,22 +1,18 @@
-# How to Docker React CSS Styling
-
-## Based on three Robin Wieruch articles
-
-- [How to install Docker on MacOS](https://www.robinwieruch.de/docker-macos)
-- [How to Docker with create-react-app](https://www.robinwieruch.de/docker-create-react-app-development)
-  [How to Docker with React (other kind of React app, i.e. with Webpack)](https://www.robinwieruch.de/docker-react-development)
-- [How to CSS Style in React](https://www.robinwieruch.de/react-css-styling)
-- and we've added hot reloading via suggestions in [Michael Herman's Dockerizing a React App](https://mherman.org/blog/dockerizing-a-react-app/)
+# Docker for Create React App development with hot reloading
 
 ## Ref
 
 - [Create React App. Getting Started](https://create-react-app.dev/docs/getting-started/)
+- [How to install Docker on MacOS](https://www.robinwieruch.de/docker-macos)
+- [How to Docker with create-react-app](https://www.robinwieruch.de/docker-create-react-app-development)
+  - [How to Docker with React (other kind of React app, i.e. with Webpack)](https://www.robinwieruch.de/docker-react-development)
+- and last but not least
+  we've added hot reloading via suggestions in [Michael Herman's Dockerizing a React App](https://mherman.org/blog/dockerizing-a-react-app/)
 
 ## What's the plan
 
 - Set up a [Create React App]() dev environment running locally in docker
-- Hot reload dev our way through the CSS style article
-- Commit everything to a Github repo we can work through, commit by commit
+- Hot reload our way through any local dev tasks we have at hand
 
 ## Docker up
 
